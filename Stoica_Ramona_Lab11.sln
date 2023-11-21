@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{1755B5F4-2EDB-4D06-ABCE-97D2D4AE219C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stoica_Ramona_Lab11", "Stoica_Ramona_Lab11\Stoica_Ramona_Lab11.csproj", "{C86CC6D0-00D0-4B77-B1A6-F8326DCED873}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1755B5F4-2EDB-4D06-ABCE-97D2D4AE219C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1755B5F4-2EDB-4D06-ABCE-97D2D4AE219C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1755B5F4-2EDB-4D06-ABCE-97D2D4AE219C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1755B5F4-2EDB-4D06-ABCE-97D2D4AE219C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C86CC6D0-00D0-4B77-B1A6-F8326DCED873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C86CC6D0-00D0-4B77-B1A6-F8326DCED873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C86CC6D0-00D0-4B77-B1A6-F8326DCED873}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C86CC6D0-00D0-4B77-B1A6-F8326DCED873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C86CC6D0-00D0-4B77-B1A6-F8326DCED873}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C86CC6D0-00D0-4B77-B1A6-F8326DCED873}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC4B54DB-D226-4ACC-BC8D-B622B6F965A5}
+	EndGlobalSection
+EndGlobal
